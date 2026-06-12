@@ -23,6 +23,9 @@ const sarabun = Sarabun({
 export const metadata: Metadata = {
   title: "CPK",
   description: "Our team",
+  icons: {
+    icon: "/logo/logo.png",
+  },
 };
 
 export default function RootLayout({
