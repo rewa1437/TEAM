@@ -74,7 +74,7 @@ export const members: Member[] = [
     "isLead": false,
     "avatar": "/avatars/tonnam.JPG",
     "role": {
-      "en": "Full Stack Developer",
+      "en": "Fullstack Developer",
       "th": "นักพัฒนาซอฟต์แวร์ฟูลสแตก"
     },
     "bio": {
